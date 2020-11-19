@@ -10,5 +10,8 @@ public static void main(String[] args) {
 	Person p=new Person(11, "MFR", 1000);
 	System.out.println(p);
 	
+	Person p1=new Person(12, "MFR", 1000);
+	System.out.println(p1);
+	
 }
 }
